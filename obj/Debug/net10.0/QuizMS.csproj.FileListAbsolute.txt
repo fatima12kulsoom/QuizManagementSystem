@@ -1,0 +1,14 @@
+C:\Users\fatima\OneDrive\Desktop\QuizMS\obj\Debug\net10.0\QuizMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatima\OneDrive\Desktop\QuizMS\obj\Debug\net10.0\QuizMS.AssemblyInfoInputs.cache
+C:\Users\fatima\OneDrive\Desktop\QuizMS\obj\Debug\net10.0\QuizMS.AssemblyInfo.cs
+C:\Users\fatima\OneDrive\Desktop\QuizMS\obj\Debug\net10.0\QuizMS.csproj.CoreCompileInputs.cache
+C:\Users\fatima\OneDrive\Desktop\QuizMS\bin\Debug\net10.0\QuizMS.exe
+C:\Users\fatima\OneDrive\Desktop\QuizMS\bin\Debug\net10.0\QuizMS.deps.json
+C:\Users\fatima\OneDrive\Desktop\QuizMS\bin\Debug\net10.0\QuizMS.runtimeconfig.json
+C:\Users\fatima\OneDrive\Desktop\QuizMS\bin\Debug\net10.0\QuizMS.dll
+C:\Users\fatima\OneDrive\Desktop\QuizMS\bin\Debug\net10.0\QuizMS.pdb
+C:\Users\fatima\OneDrive\Desktop\QuizMS\obj\Debug\net10.0\QuizMS.dll
+C:\Users\fatima\OneDrive\Desktop\QuizMS\obj\Debug\net10.0\refint\QuizMS.dll
+C:\Users\fatima\OneDrive\Desktop\QuizMS\obj\Debug\net10.0\QuizMS.pdb
+C:\Users\fatima\OneDrive\Desktop\QuizMS\obj\Debug\net10.0\QuizMS.genruntimeconfig.cache
+C:\Users\fatima\OneDrive\Desktop\QuizMS\obj\Debug\net10.0\ref\QuizMS.dll
